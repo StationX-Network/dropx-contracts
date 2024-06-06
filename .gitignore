@@ -1,0 +1,15 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+yarn.lock
+abi.json
+remix-compiler.config.js
+compiler_config.json
+package-lock.json
+
+#Hardhat files
+cache
+artifacts
+bin
